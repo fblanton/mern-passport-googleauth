@@ -29,7 +29,6 @@ View the live version of this app here:
 ## Note
 * make sure you have mongodb installed and started for local dev
 * start local dev without google login by running `yarn start`
-* YOU MUST SET UP YOUR GOOGLE AUTHENTICATION FOR THE APP TO RUN; OR COMMENT OUT SOME OF THE CODE PER THE NEXT BULLET.
 * If you want to use with google authentication you must:
   * register your app @ [https://console.developers.google.com](https://console.developers.google.com)
   * set `GOOGLE_CLIENT_ID` & `GOOGLE_CLIENT_SECRET` as environmental variables in a project root level document named `.env` [more about .env here](https://www.npmjs.com/package/dotenv)
