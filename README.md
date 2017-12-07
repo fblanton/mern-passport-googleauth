@@ -4,12 +4,6 @@
 * Mongo, Express, React, Node (MERN) + Passport.js for managing authentication
 * This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-## Demo
-![demo gif](./_screenshots/mern_passport_demo.gif)
-
-View the live version of this app here:
-[https://mern-passport.herokuapp.com/](https://mern-passport.herokuapp.com/)
-
 ## Project Structure
 ```
 |-- server/
